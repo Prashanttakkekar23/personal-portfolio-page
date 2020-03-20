@@ -1,1 +1,60 @@
-/* Add your CSS code here */
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body{
+      min-width: 500px;
+      background-color:#e0eeee;
+
+  }
+
+  .profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+  }
+
+
+
+  .profileBody h1{
+      font-weight: normal;
+      margin-left: 0.5em;
+      font-family: 'Times New Roman', Times, serif;
+      margin-top: 10px;
+      font-size: 25px;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+
+  }
+
+  .profileBody h2{
+      font-weight: normal;
+      margin-left: 1em;
+      margin-top: 2px;
+      margin-bottom: 15px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-size: 15px;
+      font-style: italic;
+  }
+
+
+  
+ 
+ 
+ 
+  .Goals ul li{
+
+    font-size: 15px;
+    margin-right: 1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+      
+  }
